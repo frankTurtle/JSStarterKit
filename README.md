@@ -7,3 +7,8 @@ Package Manager: npm
 Webserver: Express
 
 Copied the versions of the npm packages, so it may be outdated. 
+
+Transpiler: Babel
+
+Bundler: Webpack
+
