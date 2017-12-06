@@ -2,7 +2,9 @@
   "name": "JSStarterKit",
   "version": "1.0.0",
   "description": "Initial setup of JS Environment",
-  "scripts": {},
+  "scripts": {
+     "start": "node buildScripts/srcServer.js"
+  },
   "author": "Barret J. Nobel",
   "license": "MIT",
   "dependencies": {
