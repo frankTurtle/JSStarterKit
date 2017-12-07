@@ -12,3 +12,4 @@ Transpiler: Babel
 
 Bundler: Webpack
 
+Linting: ESLint Watch
