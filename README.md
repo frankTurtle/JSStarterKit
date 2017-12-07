@@ -13,3 +13,7 @@ Transpiler: Babel
 Bundler: Webpack
 
 Linting: ESLint Watch
+
+Testing: Mocha
+
+Assertion: Chai
